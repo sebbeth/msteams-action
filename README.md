@@ -8,7 +8,7 @@ https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors
 
 # Usage
 ```
-- uses: FTsbrown/msteams-action@master
+- uses: sebbeth/msteams-action@master
       with: 
         TITLE: Hello from GitHub  # the message title
 	BODY: 🎉🎉(ﾉ≧∇≦)ﾉ 🎉🎉  # the body of the message
