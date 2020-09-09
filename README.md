@@ -11,6 +11,6 @@ https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors
 - uses: sebbeth/msteams-action@master
       with: 
         TITLE: Hello from GitHub  # the message title
-	BODY: 🎉🎉(ﾉ≧∇≦)ﾉ 🎉🎉  # the body of the message
-	MS_TEAMS_WEBHOOK: <webhook url> # 
+	BODY: (ﾉ≧∇≦)ﾉ  # the body of the message
+	MS_TEAMS_WEBHOOK: <webhook url> # the webhook for your MS Teams channel.
 ```
